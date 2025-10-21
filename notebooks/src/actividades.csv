@@ -1,0 +1,101 @@
+actividad_id,nombre,tipo,ciudad,precio
+1,Caminata en glaciares,Aventura,Bariloche,45000
+2,Paseo en kayak por el lago,Naturaleza,Bariloche,38000
+3,Buceo en arrecifes,Aventura,Cancún,75000
+4,Fiesta en la playa,Entretenimiento,Cancún,50000
+5,Tour por el Coliseo,Cultura,Roma,40000
+6,Clases de cocina italiana,Gastronomía,Roma,35000
+7,Recorrido por el Museo del Prado,Cultura,Madrid,38000
+8,Tour de tapas,Gastronomía,Madrid,30000
+9,Crucero por el Sena,Entretenimiento,París,42000
+10,Visita a la Torre Eiffel,Cultura,París,40000
+11,Tour en bus por la ciudad,Cultura,Londres,37000
+12,Visita al Museo Británico,Cultura,Londres,32000
+13,Experiencia de sushi,Gastronomía,Tokio,45000
+14,Visita al mercado de pescado,Curiosidad,Tokio,30000
+15,Recorrido por templos antiguos,Cultura,Kioto,35000
+16,Ceremonia del té tradicional,Cultura,Kioto,27000
+17,Navegación por el Lago Argentino,Naturaleza,El Calafate,50000
+18,Visita al glaciar Perito Moreno,Aventura,El Calafate,65000
+19,Senderismo por el Parque Nacional,Aventura,Ushuaia,55000
+20,Paseo en tren del fin del mundo,Entretenimiento,Ushuaia,40000
+21,Subida al Cristo Redentor,Cultura,Río de Janeiro,35000
+22,Clase de samba,Entretenimiento,Río de Janeiro,32000
+23,Surf en la playa Joaquina,Deporte,Florianópolis,45000
+24,Tour gastronómico,Gastronomía,Florianópolis,30000
+25,Paseo por el centro histórico,Cultura,Cartagena,28000
+26,Excursión en lancha por islas,Aventura,Cartagena,40000
+27,Tour de grafitis,Cultura,Bogotá,23000
+28,Visita al Museo del Oro,Cultura,Bogotá,25000
+29,Excursión a viñedos,Gastronomía,Santiago,35000
+30,Escalada en cordillera,Aventura,Santiago,55000
+31,Paseo en funicular,Cultura,Valparaíso,27000
+32,Street art tour,Cultura,Valparaíso,30000
+33,Visita al Museo Larco,Cultura,Lima,25000
+34,Degustación de ceviches,Gastronomía,Lima,32000
+35,Subida a Machu Picchu,Aventura,Machu Picchu,75000
+36,Recorrido guiado por ruinas,Cultura,Machu Picchu,42000
+37,Tour por Central Park,Naturaleza,Nueva York,35000
+38,Visita a Broadway,Entretenimiento,Nueva York,55000
+39,Recorrido por Hollywood,Entretenimiento,Los Ángeles,52000
+40,Clase de surf en Venice Beach,Deporte,Los Ángeles,48000
+41,Paseo en lancha por la bahía,Entretenimiento,Miami,42000
+42,Visita a barrios cubanos,Cultura,Miami,33000
+43,Parque temático,Entretenimiento,Orlando,70000
+44,Tour detrás de escenas,Familiar,Orlando,60000
+45,Casino tour,Entretenimiento,Las Vegas,65000
+46,Show de luces nocturno,Entretenimiento,Las Vegas,50000
+47,Visita a museos,Cultura,Montreal,27000
+48,Tour gastronómico,Gastronomía,Montreal,32000
+49,Senderismo por montañas,Naturaleza,Vancouver,48000
+50,Avistamiento de orcas,Naturaleza,Vancouver,52000
+51,Excursión a géiseres,Naturaleza,Reikiavik,60000
+52,Relajación en Laguna Azul,Relax,Reikiavik,65000
+53,Paseo por fiordos,Naturaleza,Oslo,55000
+54,Visita a museos vikingos,Cultura,Oslo,30000
+55,Tour por islas,Cultura,Estocolmo,32000
+56,Museo ABBA,Entretenimiento,Estocolmo,40000
+57,Visita a fortalezas históricas,Cultura,Helsinki,33000
+58,Recorrido en barco,Naturaleza,Helsinki,38000
+59,Paseo por canales,Cultura,Ámsterdam,30000
+60,Visita a fábricas de queso,Gastronomía,Ámsterdam,34000
+61,Visita al Muro de Berlín,Histórico,Berlín,25000
+62,Museo de la guerra,Histórico,Berlín,27000
+63,Tour cervecero,Gastronomía,Múnich,32000
+64,Visita a castillos bávaros,Cultura,Múnich,40000
+65,Concierto de música clásica,Cultura,Viena,35000
+66,Tour por palacios,Cultura,Viena,38000
+67,Paseo en barco por el Moldava,Cultura,Praga,33000
+68,Tour por el casco antiguo,Cultura,Praga,31000
+69,Baños termales,Relax,Budapest,42000
+70,Tour en tranvía,Cultura,Budapest,25000
+71,Visita a la Acrópolis,Histórico,Atenas,40000
+72,Recorrido mitológico,Cultura,Atenas,35000
+73,Tour fotográfico al atardecer,Relax,Santorini,48000
+74,Paseo en yate por islas,Entretenimiento,Santorini,55000
+75,Visita a pirámides,Histórico,El Cairo,60000
+76,Paseo en camello,Experiencia,El Cairo,45000
+77,Recorrido por zocos,Cultura,Marrakech,27000
+78,Clase de cocina marroquí,Gastronomía,Marrakech,30000
+79,Subida al Burj Khalifa,Moderno,Dubái,70000
+80,Desierto en 4x4,Aventura,Dubái,65000
+81,City tour,Cultura,Doha,40000
+82,Paseo en duna buggy,Aventura,Doha,55000
+83,Visita a la Ópera,Entretenimiento,Sídney,50000
+84,Clases de surf,Deporte,Sídney,48000
+85,Visita a galerías de arte,Cultura,Melbourne,35000
+86,Tour gastronómico,Gastronomía,Melbourne,33000
+87,Bungee jumping,Aventura,Queenstown,75000
+88,Recorrido en bote,Naturaleza,Queenstown,38000
+89,Tour por volcanes,Naturaleza,Auckland,42000
+90,Subida a Sky Tower,Entretenimiento,Auckland,38000
+91,Buceo con tortugas,Aventura,Honolulu,55000
+92,Clases de hula dance,Cultura,Honolulu,30000
+93,Excursión a templos,Cultura,Bali,34000
+94,Yoga frente al mar,Relax,Bali,37000
+95,Paseo en barco,Entretenimiento,Phuket,36000
+96,Snorkel en islas,Aventura,Phuket,42000
+97,Recorrido por palacios reales,Cultura,Seúl,38000
+98,Clase de cocina coreana,Gastronomía,Seúl,34000
+99,Festival callejero,Entretenimiento,Seúl,31000
+100,Visita a cafés temáticos,Curiosidad,Seúl,27000

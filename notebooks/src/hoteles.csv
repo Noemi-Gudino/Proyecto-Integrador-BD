@@ -1,0 +1,51 @@
+hotel_id,nombre,ciudad,precio,calificacion,servicios
+1,Hotel Sol,Bariloche,85000,4,wifi;pileta;desayuno
+2,Cumbres Andinas,Bariloche,120000,5,wifi;spa;pileta
+3,Altos del Norte,Jujuy,60000,3,wifi
+4,Mar Azul,Mar del Plata,90000,4,wifi;pileta;desayuno
+5,Refugio Serrano,Córdoba,70000,4,wifi;desayuno
+6,Hotel del Lago,San Luis,80000,4,wifi;pileta
+7,Patagonia Lodge,El Calafate,140000,5,wifi;spa;pileta;desayuno
+8,Andes Boutique,Mendoza,110000,5,wifi;spa;desayuno
+9,Selva Dorada,Iguazú,95000,4,wifi;pileta;desayuno
+10,Monte Verde,Salta,65000,3,wifi
+11,Hotel Nevado,Bariloche,100000,5,wifi;pileta;spa
+12,Brisas del Mar,Mar del Plata,87000,4,wifi;pileta;desayuno
+13,Altitud 3000,San Martín de los Andes,125000,5,wifi;spa;pileta;desayuno
+14,Gran Colonial,Tucumán,72000,4,wifi;desayuno
+15,Hotel del Centro,Córdoba,60000,3,wifi
+16,Llanuras Hotel,La Pampa,58000,3,wifi;desayuno
+17,Bahia Serena,Puerto Madryn,92000,4,wifi;pileta
+18,El Mirador,Salta,88000,4,wifi;desayuno
+19,Hotel de las Nubes,Jujuy,99000,5,wifi;spa;desayuno
+20,Monte Claro,Bariloche,105000,5,wifi;pileta;spa
+21,El Portal,Catamarca,64000,3,wifi;desayuno
+22,Sierra Azul,Córdoba,79000,4,wifi;pileta;desayuno
+23,Hotel Aconcagua,Mendoza,115000,5,wifi;spa;desayuno
+24,La Cascada,Misiones,94000,4,wifi;pileta;desayuno
+25,Gran Hotel San Martín,San Juan,81000,4,wifi;desayuno
+26,Río Verde,Entre Ríos,76000,3,wifi;pileta
+27,Altos del Valle,Catamarca,67000,3,wifi;desayuno
+28,Hotel Sol Naciente,Formosa,73000,3,wifi
+29,Las Cumbres,San Luis,98000,5,wifi;spa;desayuno
+30,Gran Bahía,Mar del Plata,89000,4,wifi;pileta
+31,Hotel Oasis,Salta,94000,4,wifi;pileta;desayuno
+32,Posada del Sol,Mendoza,88000,4,wifi;desayuno
+33,Hotel Serrano,Córdoba,79000,4,wifi;pileta
+34,Monte Real,Neuquén,83000,4,wifi;desayuno
+35,Brisas Andinas,San Martín de los Andes,128000,5,wifi;spa;pileta;desayuno
+36,Hotel Cristal,San Juan,75000,3,wifi;desayuno
+37,El Faro,Puerto Madryn,99000,4,wifi;pileta
+38,Costa Serena,Mar del Plata,91000,4,wifi;desayuno
+39,Refugio del Norte,Jujuy,68000,3,wifi
+40,Altos del Plata,Córdoba,80000,4,wifi;desayuno
+41,Gran Andino,Mendoza,118000,5,wifi;spa;pileta
+42,Las Palmeras,Iguazú,95000,4,wifi;pileta;desayuno
+43,Hotel del Bosque,Bariloche,102000,5,wifi;spa;desayuno
+44,El Paraíso,Salta,87000,4,wifi;desayuno
+45,Santa Rosa Inn,La Pampa,59000,3,wifi
+46,Monte Verde Lodge,San Luis,82000,4,wifi;pileta
+47,El Refugio del Lago,Bariloche,115000,5,wifi;spa;pileta;desayuno
+48,Hotel del Parque,Tucumán,76000,3,wifi
+49,Gran Horizonte,Neuquén,85000,4,wifi;desayuno
+50,Cumbres del Sur,El Calafate,130000,5,wifi;spa;pileta;desayuno

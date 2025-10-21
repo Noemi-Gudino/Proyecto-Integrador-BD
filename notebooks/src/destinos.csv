@@ -1,0 +1,51 @@
+destino_id,ciudad,pais,tipo,precio_promedio
+1,Bariloche,Argentina,Montaña,90000
+2,Cancún,México,Playa,150000
+3,Roma,Italia,Histórico,100000
+4,Madrid,España,Cultural,110000
+5,París,Francia,Cultural,130000
+6,Londres,Reino Unido,Histórico,140000
+7,Tokio,Japón,Moderno,160000
+8,Kioto,Japón,Histórico,120000
+9,El Calafate,Argentina,Natural,95000
+10,Ushuaia,Argentina,Montaña,100000
+11,Río de Janeiro,Brasil,Playa,125000
+12,Florianópolis,Brasil,Playa,115000
+13,Cartagena,Colombia,Playa,110000
+14,Bogotá,Colombia,Cultural,95000
+15,Santiago,Chile,Montaña,105000
+16,Valparaíso,Chile,Cultural,98000
+17,Lima,Perú,Cultural,97000
+18,Cusco,Perú,Histórico,102000
+19,Machu Picchu,Perú,Histórico,145000
+20,Nueva York,Estados Unidos,Moderno,170000
+21,Los Ángeles,Estados Unidos,Moderno,160000
+22,Miami,Estados Unidos,Playa,150000
+23,Orlando,Estados Unidos,Familiar,155000
+24,Las Vegas,Estados Unidos,Entretenimiento,165000
+25,Montreal,Canadá,Cultural,120000
+26,Vancouver,Canadá,Natural,125000
+27,Reikiavik,Islandia,Natural,140000
+28,Oslo,Noruega,Natural,135000
+29,Estocolmo,Suecia,Cultural,128000
+30,Helsinki,Finlandia,Cultural,122000
+31,Ámsterdam,Países Bajos,Cultural,130000
+32,Berlín,Alemania,Histórico,125000
+33,Múnich,Alemania,Cultural,120000
+34,Viena,Austria,Histórico,118000
+35,Praga,República Checa,Histórico,115000
+36,Budapest,Hungría,Histórico,112000
+37,Atenas,Grecia,Histórico,125000
+38,Santorini,Grecia,Playa,135000
+39,El Cairo,Egipto,Histórico,110000
+40,Marrakech,Marruecos,Cultural,98000
+41,Dubái,Emiratos Árabes,Moderno,180000
+42,Doha,Catar,Moderno,175000
+43,Sídney,Australia,Playa,160000
+44,Melbourne,Australia,Cultural,150000
+45,Queenstown,Nueva Zelanda,Natural,145000
+46,Auckland,Nueva Zelanda,Moderno,140000
+47,Honolulu,Estados Unidos,Playa,155000
+48,Bali,Indonesia,Playa,130000
+49,Phuket,Tailandia,Playa,125000
+50,Seúl,Corea del Sur,Moderno,150000
