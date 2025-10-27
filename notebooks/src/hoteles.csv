@@ -49,3 +49,13 @@ hotel_id,nombre,ciudad,precio,calificacion,servicios
 48,Hotel del Parque,Tucumán,76000,3,wifi
 49,Gran Horizonte,Neuquén,85000,4,wifi;desayuno
 50,Cumbres del Sur,El Calafate,130000,5,wifi;spa;pileta;desayuno
+51,Le Jardin,París,135000,5,wifi;desayuno;pileta
+52,Hôtel Lumière,París,128000,4,wifi;desayuno
+53,Champs Élysées Inn,París,142000,5,wifi;desayuno;spa
+54,Sunset Lodge,Bariloche,115000,4,wifi;pileta
+55,Marina Bay Hotel,Sídney,160000,5,wifi;pileta;spa
+56,Mission Hills,Cartagena,120000,4,wifi;desayuno
+57,Valle Verde,Salta,88000,3,wifi;desayuno
+58,Hotel Central,Roma,125000,4,wifi;desayuno
+59,Ocean View,Miami,155000,5,wifi;pileta
+60,Alta Montaña,Ushuaia,100000,4,wifi;desayuno;pileta

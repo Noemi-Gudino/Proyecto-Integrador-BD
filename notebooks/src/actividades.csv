@@ -99,3 +99,13 @@ actividad_id,nombre,tipo,ciudad,precio
 98,Clase de cocina coreana,Gastronomía,Seúl,34000
 99,Festival callejero,Entretenimiento,Seúl,31000
 100,Visita a cafés temáticos,Curiosidad,Seúl,27000
+101,Caminata por los Valles Calchaquíes,Aventura,Tucumán,40000
+102,Visita a la Casa Histórica,Cultura,Tucumán,35000
+103,Kayak en el Río Limay,Naturaleza,Neuquén,38000
+104,Excursión al Cerro Catedral,Aventura,Bariloche,42000
+105,Recorrido histórico por Salta,Cultura,Salta,37000
+106,Senderismo en Cafayate,Aventura,Salta,36000
+107,Visita a bodegas y viñedos,Gastronomía,Mendoza,33000
+108,Tour por el Aconcagua,Aventura,Mendoza,45000
+109,Recorrido por playas de Mar del Plata,Naturaleza,Mar del Plata,30000
+110,Clases de surf,Deporte,Mar del Plata,35000

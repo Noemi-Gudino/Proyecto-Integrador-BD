@@ -49,3 +49,53 @@ destino_id,ciudad,pais,tipo,precio_promedio
 48,Bali,Indonesia,Playa,130000
 49,Phuket,Tailandia,Playa,125000
 50,Seúl,Corea del Sur,Moderno,150000
+51,Jujuy,Argentina,Montaña,95000
+52,Córdoba,Argentina,Cultural,97000
+53,Mendoza,Argentina,Montaña,98000
+54,Salta,Argentina,Natural,96000
+55,Rosario,Argentina,Cultural,94000
+56,Mar del Plata,Argentina,Playa,88000
+57,Iguazú,Argentina,Natural,102000
+58,San Martín de los Andes,Argentina,Montaña,99000
+59,San Juan,Argentina,Natural,91000
+60,Tucumán,Argentina,Cultural,92000
+61,San Luis,Argentina,Montaña,90000
+62,Puerto Madryn,Argentina,Natural,92000
+63,Catamarca,Argentina,Cultural,94000
+64,Formosa,Argentina,Cultural,93000
+65,Neuquén,Argentina,Natural,95000
+66,Bangkok,Tailandia,Moderno,140000
+67,Los Cabos,México,Playa,145000
+68,Lisboa,Portugal,Cultural,125000
+69,Venecia,Italia,Histórico,130000
+70,Barcelona,España,Cultural,135000
+71,Nueva Delhi,India,Histórico,120000
+72,Florencia,Italia,Histórico,123000
+73,Edimburgo,Reino Unido,Histórico,127000
+74,Estambul,Turquía,Cultural,130000
+75,Shanghai,China,Moderno,150000
+76,Beijing,China,Histórico,148000
+77,Hong Kong,China,Moderno,155000
+78,Singapur,Singapur,Moderno,160000
+79,Los Ángeles Oeste,Estados Unidos,Moderno,162000
+80,Miami Beach,Estados Unidos,Playa,152000
+81,Orlando Centro,Estados Unidos,Familiar,157000
+82,Las Vegas Strip,Estados Unidos,Entretenimiento,167000
+83,Montreal Centro,Canadá,Cultural,122000
+84,Vancouver Este,Canadá,Natural,127000
+85,Reikiavik Norte,Islandia,Natural,142000
+86,Oslo Este,Noruega,Natural,137000
+87,Estocolmo Norte,Suecia,Cultural,130000
+88,Helsinki Sur,Finlandia,Cultural,124000
+89,Ámsterdam Norte,Países Bajos,Cultural,132000
+90,Viena Este,Austria,Histórico,120000
+91,Budapest Oeste,Hungría,Histórico,115000
+92,Santorini Sur,Grecia,Playa,138000
+93,El Cairo Norte,Egipto,Histórico,112000
+94,Marrakech Norte,Marruecos,Cultural,99000
+95,Sídney Norte,Australia,Playa,162000
+96,Melbourne Sur,Australia,Cultural,152000
+97,Queenstown Norte,Nueva Zelanda,Natural,148000
+98,Auckland Este,Nueva Zelanda,Moderno,142000
+99,Honolulu Oeste,Estados Unidos,Playa,158000
+100,Bali Norte,Indonesia,Playa,132000
